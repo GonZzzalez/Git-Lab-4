@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content:  center;
+}
+
+body{text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: darksalmon;}
+    
+section div{
+    padding-left: 20px; padding-right: 20px;
+}
